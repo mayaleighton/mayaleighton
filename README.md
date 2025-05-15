@@ -1,6 +1,6 @@
 ## Hi there, I'm Maya! :sun_with_face:
 
-## I am an undergraduate student at UNCW, studying Physical Oceanography and working with the Coastal & Estuarine Hydrodynamics Group :ocean.
+## I am an undergraduate student at UNCW, studying Physical Oceanography and working with the Coastal & Estuarine Hydrodynamics Group :ocean:.
 
 
 <!--
