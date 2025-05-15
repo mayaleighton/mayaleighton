@@ -1,6 +1,6 @@
 ## Hi there, I'm Maya! :sun_with_face:
 
-## I am an undergraduate student at UNCW, studying Oceanography :ocean: and Applied Math :triangular_ruler:. I'm also an international student from Bermuda :bermuda: (yes, like the Triangle!)! I'm in Smart Coasts with Dr. Bresnahan and I can't wait to learn! :laughing:
+## I am an undergraduate student at UNCW, studying Physical Oceanography and working with the Coastal & Estuarine Hydrodynamics Group :ocean.
 
 
 <!--
